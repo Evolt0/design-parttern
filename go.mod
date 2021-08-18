@@ -1,4 +1,4 @@
-module github.com/Evolt0/design_pattern
+module github.com/Evolt0/design-pattern
 
 go 1.16
 
