@@ -22,5 +22,5 @@
 ## 组合/聚合复用原则 (Composite/Aggregate Reuse Principle)
 在一个新的对象里面使用一些已有的对象，使之成为新对象的一部分; 新的对象通过向这些对象的委派达到复用已有功能的目的。
 
-## 创建型模型
-![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
